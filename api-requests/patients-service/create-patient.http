@@ -1,0 +1,12 @@
+### POST request to create patient
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Toby Mac",
+  "email": "tbm@music.co.uk",
+  "address" : "112 North West St, Miami",
+  "dateOfBirth" : "1985-09-12",
+  "registeredDate" : "2024-08-23"
+}
+###

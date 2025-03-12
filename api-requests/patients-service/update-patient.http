@@ -1,0 +1,12 @@
+### PUT request to update a patient by id
+PUT http://localhost:4000/patients/8a1f97c7-c531-48e2-aa21-6212daf52623
+    ?generated-in=IntelliJ IDEA
+Content-Type: application/json
+
+{
+  "name" : "Toby Mac",
+  "email" : "tobymac@music.co.uk",
+  "address" : "112 North West St, Miami",
+  "dateOfBirth" : "1985-09-12"
+}
+###
