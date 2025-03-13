@@ -25,7 +25,7 @@ This is a **Spring Boot** RESTful microservice API for managing patient records.
 ## 🏗️ Project Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://mesoma-hub/patient-management-system.git
+git clone https://github.com/mesoma-hub/Patient-Management-System.git
 cd patient-service
 ```
 
